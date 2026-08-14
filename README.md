@@ -1,16 +1,26 @@
-## Hi there 👋
+### Hi, I'm Johandi 👋 — Senior Software Developer
 
-<!--
-**johandiMIS/johandiMIS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build production systems end to end — cloud architecture on AWS, and AI/ML systems including
+agentic workflows (LangGraph), RAG pipelines (pgvector, Qdrant), and real-time computer vision.
 
-Here are some ideas to get you started:
+**Currently:** Head of IT at Pershing Global Solution, solely architecting and running their AWS
+infrastructure and AI systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### What I've built
+
+Most of my production work was built on private employer and client repositories under NDA, so it
+isn't visible here directly — but the systems are real:
+
+- **RAG & agentic AI** — built an end-to-end RAG architecture (pgvector, Qdrant) and agentic
+  workflows (LangGraph) for knowledge-base search and autonomous task pipelines, at Pershing Global Solution.
+- **Computer vision at scale** — led a CV video analytics platform integrating 4+ models at
+  under 200ms latency, and an AI voice/caption translator at 90%+ accuracy, at Blue Silo / Sigmawave AI.
+- **Manufacturing systems** — rebuilt material calculation, output counting, and traceability
+  systems handling millions of components monthly, at PT. Sat Nusapersada.
+
+The pinned repos below are original projects I built outside those constraints, to demonstrate the
+same skills in the open.
+
+#### Reach me
+
+[LinkedIn](https://linkedin.com/in/johandi-lim-13430b207) · limjohandi@gmail.com
