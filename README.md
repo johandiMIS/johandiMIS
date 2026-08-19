@@ -39,6 +39,7 @@ same skills in the open.
 
 Repos for these are private (client/venture work), but they're live in production:
 
+- **[Proprely](https://proprely.fr)** — Operations platform for cleaning companies (private beta, EU-hosted). Sales pipeline, clients & sites, recurring contracts, mission scheduling with SOP protocols, inventory, agent management, and automatic hour tracking that feeds payroll — replacing the spreadsheet-and-WhatsApp sprawl these firms run on. Multi-tenant, with a super-admin console for onboarding client organisations. I build the application at `app.proprely.fr`. *(Next.js, NestJS, PostgreSQL, TypeScript)*
 - **[Limuda](https://limuda.net)** — IT solutions studio I co-founded, delivering tailored systems and websites. *(Next.js, Turborepo, Tailwind CSS)*
 - **[Limielle](https://limielle.com)** — Full business platform for a nail art studio: company profile, CRM, loyalty card program, referral tracking, vouchers & discounts, booking system, pricelist. *(NestJS, Next.js, PostgreSQL, TypeORM, TypeScript, Turborepo, AWS S3)*
 - **[Mitsutama Indo Teknik](https://mitsutama-indotek.com)** — Company profile site for an industrial calibration & testing instrumentation provider. *(Next.js, NestJS, PostgreSQL, Turborepo)* — repo is public, pinned below as `mitsutama-compro`
