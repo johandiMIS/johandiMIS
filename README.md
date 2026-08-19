@@ -31,4 +31,4 @@ Repos for these are private (client/venture work), but they're live in productio
 
 #### Reach me
 
-[LinkedIn](https://linkedin.com/in/johandi-lim-13430b207) · limjohandi@gmail.com
+[LinkedIn](https://linkedin.com/in/johandilim) · limjohandi@gmail.com
