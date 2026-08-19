@@ -21,6 +21,20 @@ isn't visible here directly — but the systems are real:
 The pinned repos below are original projects I built outside those constraints, to demonstrate the
 same skills in the open.
 
+#### Currently building
+
+- **[Gesture-Controlled Claw Machine](https://github.com/johandiMIS/gesture-control)** — Play a claw
+  machine with your bare hand. Real-time hand tracking drives an Arduino servo gantry: depth-invariant
+  mapping in palm-radius units so the same physical movement works at any distance from the camera,
+  One Euro filtering for jitter-free pointing, debounced grab detection, and multi-hand arbitration so
+  a bystander can't steal control. Firmware side adds a link watchdog and slew limiting.
+  *(Python, MediaPipe, OpenCV, Arduino/C++)*
+- **ERP for a wholesale distributor** — Self-hosted Odoo 12 deployment with **40 custom modules**
+  covering multi-warehouse stock, multi-unit conversion (pcs / dozen / box) with cascading
+  denomination logic, automated restock between store and display warehouses, purchasing and sales
+  workflows, Indonesian e-Faktur tax invoicing, barcode and QR operations, POS synchronisation, and
+  custom COGS reporting. *(Python, Odoo, PostgreSQL, Docker Compose)* — client work, repo private.
+
 #### Selected live projects
 
 Repos for these are private (client/venture work), but they're live in production:
